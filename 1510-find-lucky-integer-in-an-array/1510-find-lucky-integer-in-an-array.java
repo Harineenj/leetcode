@@ -5,7 +5,7 @@ class Solution {
         {
             h1.put(arr[i],h1.getOrDefault(arr[i],0)+1);
         }
-        int max=0;
+        int max=-1;
         for(int i:h1.keySet())
         {
            if(i==h1.get(i))
@@ -16,11 +16,6 @@ class Solution {
             }
            }
         }
-        if(max==0)
-        {
-            return -1;
-        }
-        else
            return max;
     }
 }
