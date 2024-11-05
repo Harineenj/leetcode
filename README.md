@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Harineenj/leetcode/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/Harineenj/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Harineenj/leetcode/tree/master/1073-number-of-enclaves) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Harineenj/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Harineenj/leetcode/tree/master/0547-number-of-provinces) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Harineenj/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1073-number-of-enclaves](https://github.com/Harineenj/leetcode/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Harineenj/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -111,9 +113,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Harineenj/leetcode/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/Harineenj/leetcode/tree/master/1039-find-the-town-judge) |
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Harineenj/leetcode/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/Harineenj/leetcode/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
