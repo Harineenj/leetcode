@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Harineenj/leetcode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/Harineenj/leetcode/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/Harineenj/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Harineenj/leetcode/tree/master/1073-number-of-enclaves) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Harineenj/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Harineenj/leetcode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/Harineenj/leetcode/tree/master/0744-network-delay-time) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Harineenj/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1073-number-of-enclaves](https://github.com/Harineenj/leetcode/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Harineenj/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -114,10 +116,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Harineenj/leetcode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/Harineenj/leetcode/tree/master/0744-network-delay-time) |
 | [1039-find-the-town-judge](https://github.com/Harineenj/leetcode/tree/master/1039-find-the-town-judge) |
 ## Union Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Harineenj/leetcode/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/Harineenj/leetcode/tree/master/1073-number-of-enclaves) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Harineenj/leetcode/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Harineenj/leetcode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
