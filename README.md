@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harineenj/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0085-maximal-rectangle](https://github.com/Harineenj/leetcode/tree/master/0085-maximal-rectangle) |
 | [1036-rotting-oranges](https://github.com/Harineenj/leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Harineenj/leetcode/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/Harineenj/leetcode/tree/master/1073-number-of-enclaves) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Harineenj/leetcode/tree/master/0085-maximal-rectangle) |
 | [1197-parsing-a-boolean-expression](https://github.com/Harineenj/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Recursion
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Harineenj/leetcode/tree/master/0085-maximal-rectangle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Harineenj/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Harineenj/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Harineenj/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Harineenj/leetcode/tree/master/0085-maximal-rectangle) |
 | [1036-rotting-oranges](https://github.com/Harineenj/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Harineenj/leetcode/tree/master/1073-number-of-enclaves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Harineenj/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -153,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Harineenj/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Harineenj/leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
