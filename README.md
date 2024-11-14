@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Harineenj/leetcode/tree/master/0140-word-break-ii) |
+| [0224-basic-calculator](https://github.com/Harineenj/leetcode/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/Harineenj/leetcode/tree/master/0290-word-pattern) |
 | [1197-parsing-a-boolean-expression](https://github.com/Harineenj/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Harineenj/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -43,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Harineenj/leetcode/tree/master/0085-maximal-rectangle) |
+| [0224-basic-calculator](https://github.com/Harineenj/leetcode/tree/master/0224-basic-calculator) |
 | [1197-parsing-a-boolean-expression](https://github.com/Harineenj/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Harineenj/leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Harineenj/leetcode/tree/master/0224-basic-calculator) |
 | [1197-parsing-a-boolean-expression](https://github.com/Harineenj/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Backtracking
 |  |
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Harineenj/leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
+## Math
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Harineenj/leetcode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
