@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/Harineenj/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Harineenj/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Harineenj/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [3588-count-the-number-of-winning-sequences](https://github.com/Harineenj/leetcode/tree/master/3588-count-the-number-of-winning-sequences) |
 ## Array
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Harineenj/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Harineenj/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Harineenj/leetcode/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
+| [3588-count-the-number-of-winning-sequences](https://github.com/Harineenj/leetcode/tree/master/3588-count-the-number-of-winning-sequences) |
 ## Matrix
 |  |
 | ------- |
