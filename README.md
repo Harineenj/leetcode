@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Harineenj/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Harineenj/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/Harineenj/leetcode/tree/master/0312-burst-balloons) |
+| [0321-create-maximum-number](https://github.com/Harineenj/leetcode/tree/master/0321-create-maximum-number) |
 | [1036-rotting-oranges](https://github.com/Harineenj/leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Harineenj/leetcode/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/Harineenj/leetcode/tree/master/1073-number-of-enclaves) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Harineenj/leetcode/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/Harineenj/leetcode/tree/master/0224-basic-calculator) |
+| [0321-create-maximum-number](https://github.com/Harineenj/leetcode/tree/master/0321-create-maximum-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Harineenj/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Recursion
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/Harineenj/leetcode/tree/master/0321-create-maximum-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Harineenj/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Graph
 |  |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Harineenj/leetcode/tree/master/0085-maximal-rectangle) |
+| [0321-create-maximum-number](https://github.com/Harineenj/leetcode/tree/master/0321-create-maximum-number) |
 ## Memoization
 |  |
 | ------- |
@@ -216,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Harineenj/leetcode/tree/master/0239-sliding-window-maximum) |
+## Greedy
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/Harineenj/leetcode/tree/master/0321-create-maximum-number) |
 <!---LeetCode Topics End-->
