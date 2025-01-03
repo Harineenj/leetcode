@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Harineenj/leetcode/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harineenj/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/Harineenj/leetcode/tree/master/0224-basic-calculator) |
 | [0321-create-maximum-number](https://github.com/Harineenj/leetcode/tree/master/0321-create-maximum-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Harineenj/leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harineenj/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Harineenj/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Harineenj/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Harineenj/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harineenj/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Harineenj/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Harineenj/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Harineenj/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harineenj/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0547-number-of-provinces](https://github.com/Harineenj/leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Harineenj/leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Harineenj/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
