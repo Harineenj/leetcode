@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Harineenj/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0140-word-break-ii](https://github.com/Harineenj/leetcode/tree/master/0140-word-break-ii) |
 | [0290-word-pattern](https://github.com/Harineenj/leetcode/tree/master/0290-word-pattern) |
 | [1039-find-the-town-judge](https://github.com/Harineenj/leetcode/tree/master/1039-find-the-town-judge) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harineenj/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0073-set-matrix-zeroes](https://github.com/Harineenj/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Harineenj/leetcode/tree/master/0085-maximal-rectangle) |
 | [0140-word-break-ii](https://github.com/Harineenj/leetcode/tree/master/0140-word-break-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Harineenj/leetcode/tree/master/0220-contains-duplicate-iii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Harineenj/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Harineenj/leetcode/tree/master/0085-maximal-rectangle) |
 | [1036-rotting-oranges](https://github.com/Harineenj/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Harineenj/leetcode/tree/master/1073-number-of-enclaves) |
