@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Harineenj/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0140-word-break-ii](https://github.com/Harineenj/leetcode/tree/master/0140-word-break-ii) |
+| [0229-majority-element-ii](https://github.com/Harineenj/leetcode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Harineenj/leetcode/tree/master/0290-word-pattern) |
 | [1039-find-the-town-judge](https://github.com/Harineenj/leetcode/tree/master/1039-find-the-town-judge) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Harineenj/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Harineenj/leetcode/tree/master/0140-word-break-ii) |
 | [0164-maximum-gap](https://github.com/Harineenj/leetcode/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/Harineenj/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/Harineenj/leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Harineenj/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/Harineenj/leetcode/tree/master/0312-burst-balloons) |
 | [0321-create-maximum-number](https://github.com/Harineenj/leetcode/tree/master/0321-create-maximum-number) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Harineenj/leetcode/tree/master/0229-majority-element-ii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Harineenj/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Stack
 |  |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/Harineenj/leetcode/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/Harineenj/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/Harineenj/leetcode/tree/master/0229-majority-element-ii) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Harineenj/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Harineenj/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
