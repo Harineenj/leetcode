@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harineenj/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0045-jump-game-ii](https://github.com/Harineenj/leetcode/tree/master/0045-jump-game-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Harineenj/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Harineenj/leetcode/tree/master/0085-maximal-rectangle) |
 | [0140-word-break-ii](https://github.com/Harineenj/leetcode/tree/master/0140-word-break-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Harineenj/leetcode/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/Harineenj/leetcode/tree/master/0085-maximal-rectangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/Harineenj/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Harineenj/leetcode/tree/master/0140-word-break-ii) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Harineenj/leetcode/tree/master/0045-jump-game-ii) |
 | [0321-create-maximum-number](https://github.com/Harineenj/leetcode/tree/master/0321-create-maximum-number) |
 ## Radix Sort
 |  |
