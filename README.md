@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Harineenj/leetcode/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/Harineenj/leetcode/tree/master/0290-word-pattern) |
 | [1197-parsing-a-boolean-expression](https://github.com/Harineenj/leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [1250-longest-common-subsequence](https://github.com/Harineenj/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Harineenj/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Harineenj/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [3588-count-the-number-of-winning-sequences](https://github.com/Harineenj/leetcode/tree/master/3588-count-the-number-of-winning-sequences) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Harineenj/leetcode/tree/master/0140-word-break-ii) |
 | [0312-burst-balloons](https://github.com/Harineenj/leetcode/tree/master/0312-burst-balloons) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Harineenj/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1250-longest-common-subsequence](https://github.com/Harineenj/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Harineenj/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Harineenj/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Harineenj/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
